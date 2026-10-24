@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images-removebg-preview (2).png</file>
+        <file>images-removebg-preview (3).png</file>
+        <file>kep1.png</file>
+        <file>kep2.png</file>
+    </qresource>
+</RCC>
